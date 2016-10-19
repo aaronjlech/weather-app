@@ -1,0 +1,19 @@
+@import "./imports/_normalize.scss";
+
+*{ box-sizing: border-box }
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+
+
+   .powered-by{
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 20%;
+   }
+
+}
